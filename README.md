@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Muhammad Bilal
 
-<!--
-**Muhammad-006/Muhammad-006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer engineering student at COMSATS University Islamabad (BS, 2023–2027), focused on **Python backend development and applied AI**.
 
-Here are some ideas to get you started:
+## What I work on
+- Building **REST APIs** with Python and FastAPI
+- **Computer vision** with YOLO and OpenCV (I trained a YOLOv11 helmet-detection model during an internship)
+- Putting AI models behind clean, testable APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+- **[RepFlow](https://github.com/Muhammad-006/RepFlow)**: an AI fitness coach that counts reps and judges form from a phone camera, with end-to-end encrypted frames and zero retention. I was team lead and backend engineer. Finalist (4th place) at League of Launchers, NIC Islamabad's AI bootcamp.
+- **[AI Meeting Insight Extractor](https://github.com/Muhammad-006/OpenAI)**: FastAPI + OpenAI Agents SDK service that turns meeting notes into summaries, to-dos and deadline risk.
+
+## Tech
+`Python` `FastAPI` `REST APIs` `YOLO` `OpenCV` `Roboflow` `Postman` `Git` `OpenAI API`
+
+## Experience
+- Data Science & Computer Vision Intern, Visual Computing Technologies (Jul–Sep 2025)
+- Software Engineer Intern, DMARClytics (Jun–Sep 2025, remote)
+
+## Reach me
+Mbilal.nadeem623@gmail.com · [Upwork](https://www.upwork.com/freelancers/~0134d9b0f8e2fbfdaf)
